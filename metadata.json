@@ -1,0 +1,6 @@
+{
+  "name": "New Krishna Medical Hall",
+  "description": "Your Trusted Medical Store in Jehanabad, Bihar for Genuine Medicines, Healthcare Products & Medical Essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

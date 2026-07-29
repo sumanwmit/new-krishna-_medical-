@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #0056b3;
+  --color-brand-blue-dark: #003d80;
+  --color-brand-navy: #001e3c;
+  --color-brand-green: #0A8F6A;
+  --color-brand-green-hover: #087a5a;
+}
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f8fafc;
+}
